@@ -2,6 +2,6 @@
 
 # Team Members
 * Sean Alling (Teaching Assistant)
-* Victoria Liera
-* Vanessa Liera
+* Victoria Liera (Co Team Leader)
+* Vanessa Liera (Co Team Leader)
 * Mohammedhassan Harara
